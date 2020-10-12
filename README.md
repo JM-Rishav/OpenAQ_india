@@ -16,6 +16,7 @@ Exploratory data analysis of OpenAQ india data
   Represented the average pollutant (co, no2, o3, pm25, so2, pm10) by city of india. 
   </p>
  
+<b>Distribution of pollutants in india from 2018 to 2020</b>
 
 <img src="https://github.com/JM-Rishav/OpenAQ_india/blob/main/celloutput.png">
 
