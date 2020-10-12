@@ -16,6 +16,6 @@ Exploratory data analysis of OpenAQ india data
   Represented the average pollutant (co, no2, o3, pm25, so2, pm10) by city of india. 
   </p>
  
- #
-<img src="https://github.com/JM-Rishav/OpenAQ_india/blob/main/cell%20output.png">
+
+<img src="https://github.com/JM-Rishav/OpenAQ_india/blob/main/celloutput.png">
 
